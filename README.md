@@ -93,6 +93,4 @@ Python 3.10+
 📸 Demo Screenshot
 
 Add a screenshot of your running app here
-<img width="770" height="929" alt="Screenshot 2025-11-08 190534" src="https://github.com/user-attachments/assets/9737418c-4f89-415b-abee-389147760dee" />
-
-![App Screenshot]<img width="770" height="929" alt="Screenshot 2025-11-08 190534" src="https://github.com/user-attachments/assets/ce5c5692-d09c-4184-9d3a-2f6289a0701f" />
+https://github.com/ruturaj45/Ai_Trip_Planner/blob/main/Screenshot%202025-11-08%20190534.png?raw=true
