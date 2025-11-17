@@ -108,7 +108,7 @@ streamlit run app.py
 
 📸 Demo
 
-https://github.com/ruturaj45/Ai_Trip_Planner/blob/main/Screenshot%202025-11-08%20190534.png?raw=true
+![demo1](image.png)
 
 ---
 
